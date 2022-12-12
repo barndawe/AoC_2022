@@ -3,3 +3,5 @@
 **/bin/**
 debug.log
 **/x64/Debug/**
+**/input.txt
+**/__pycache__/**
